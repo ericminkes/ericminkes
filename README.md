@@ -12,7 +12,7 @@ I build and test new features for **Promis**, the in-house risk assessment syste
 
 ## Stack
 
-- **Front end:** Blazor
+- **Front end:** Blazor, Angular
 - **Back end:** .NET, C#
 - **Data:** SQL Server
 - **Cloud:** Azure
